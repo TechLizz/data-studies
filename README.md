@@ -1,2 +1,4 @@
 # data-studies
-Objetivo: Documentar estudos sobre dados.
+Documentar estudos sobre dados.
+
+O objetivo desse projeto é documentar meus estudos para me tornar uma Analista de Dados.
